@@ -131,15 +131,15 @@ Image публикуется на docker hub:
 ## Как выглядит мобильное приложение?
 <div style="display: flex;">
   <figure style="margin: 1%;">
-    <img src="menuapp1.jpg" alt="Скрин 1" style="height:700px;margin-right:1%;">
+    <img src="menuapp1.jpg" alt="Скрин 1" style="height:600px;margin-right:1%;">
     <figcaption>Фрагмент меню</figcaption>
   </figure>
   <figure style="margin: 1%;">
-    <img src="menuapp2.jpg" alt="Скрин 2" style="height:700px;">
+    <img src="menuapp2.jpg" alt="Скрин 2" style="height:600px;">
     <figcaption>Фрагмент дополнительной инфорации о блюде</figcaption>
   </figure>
   <figure style="margin: 1%;">
-    <img src="menuapp3.jpg" alt="Скрин 3" style="height:700px;">
+    <img src="menuapp3.jpg" alt="Скрин 3" style="height:600px;">
     <figcaption>Фрагмент сессии стола</figcaption>
   </figure>
 </div>
