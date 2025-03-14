@@ -99,7 +99,7 @@ Image публикуется на docker hub:
 
 ## Документация API
 
-*[Ссылка на документацию API](ApiDocumentation.html)*
+*[Ссылка на документацию API](https://verevka8.github.io/menu_app_general/ApiDocumentation.html)*
 
 ---
 
@@ -122,7 +122,8 @@ Image публикуется на docker hub:
 ---
 
 ## Как выглядит мобильное приложение?
-
+ ![Скрин 1](menuapp1.jpg) | ![Скрин 2](menuapp2.jpg) | ![Скрин 3](menuapp3.jpg) 
+  
 ---
 
 ## Полезные ссылки
