@@ -129,26 +129,23 @@ Image публикуется на docker hub:
 ---
 
 ## Как выглядит мобильное приложение?
-<div style="display: flex;">
-  <figure style="margin: 1%;">
-    <img src="menuapp1.jpg" alt="Скрин 1" style="height:600px;margin-right:1%;">
-    <figcaption>Фрагмент меню</figcaption>
+<div style="display: flex; gap: 4%;">
+  <figure style="margin: 10%;">
+    <img src="menuapp1.jpg" alt="Скрин 1" style="height:600px;">
   </figure>
-  <figure style="margin: 1%;">
+  <figure style="margin: 10%;">
     <img src="menuapp2.jpg" alt="Скрин 2" style="height:600px;">
-    <figcaption>Фрагмент дополнительной инфорации о блюде</figcaption>
   </figure>
-  <figure style="margin: 1%;">
+  <figure style="margin: 10%;">
     <img src="menuapp3.jpg" alt="Скрин 3" style="height:600px;">
-    <figcaption>Фрагмент сессии стола</figcaption>
   </figure>
 </div>
+
 
 1. **Фрагмент меню**. Позволяет пользователю выбирать понравившиеся ему блюда и либо заказать, либо посмотреть доп инфоромацию о них.
 2. **Фрагмент дополнительной информации** Позволяет пользователю посмотреть более детальную информацию о выбранном блюде.
 3. **Фрагмент сессии стола** Отображает все заказы, которые выбрали пользователя, лист заказов прокручивается.
 ---
-
 ## Полезные ссылки
 
 - [Репозиторий сервиса авторизации (FastAPI)](https://github.com/Ratery/rs-cloud-api)
